@@ -410,6 +410,7 @@
 - (h) Matches will be held in the format below:
 
 | Game | Map | Team 1 Color | Team 2 Color |
+| :--: | :--: | :--: | :--: |
 | 1 | Map 1 | Red | Blue |
 | 2 | Map 2 | Blue | Red |
 | 3 | Map 3 | Red | Blue |
