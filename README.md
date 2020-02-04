@@ -104,7 +104,7 @@
      - (12) Powerup delay will be set to 60 seconds
      - (13) Userscripts: Disabled
      - (14) Respawn Warnings: Disabled
-     -  (15) Single World Joiner disabled and set to the appropriate server according to the [NLTP server chart](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1V_2pFY1Fi4jF6TGibAzEVnqtbsI5d9Jyqy4Ku7mOz-4/edit?usp%3Dsharing&sa=D&ust=1580831369903000) 
+     -  (15) Single World Joiner disabled and set to the appropriate server according to the [NLTP server chart](https://docs.google.com/spreadsheets/d/1V_2pFY1Fi4jF6TGibAzEVnqtbsI5d9Jyqy4Ku7mOz-4/) 
 
 ##### _Section VI - Rosters_
 
@@ -135,7 +135,7 @@
      - (1) NLTP teams will use the free agency system if they wish to add a player (or players) to their roster.
      - (2) An NLTP free agent is defined as any player who is registered to play in NLTP, while not playing in MLTP/mLTP.
      - (3) Players may register as free agents until a time determined by the Commissioners.
-     - (4) Players may register as a free agent using a form on the sidebar of [/r/NLTP](https://www.google.com/url?q=https://www.reddit.com/r/NLTP&sa=D&ust=1580831369906000). 
+     - (4) Players may register as a free agent using a form on the sidebar of [/r/NLTP](https://www.reddit.com/r/NLTP). 
 - (b) Free Agency Open Period / Weekly Timeline
      - (1) The first free agency period will open following the second week of NLTP games.
      - (2) There will be three weeks of standard free agency: after weeks 2, 3, and 4.
@@ -143,7 +143,7 @@
      - (4) Waiver point totals will be finalized and frozen Thursday night each week at 9:59:59 PM Eastern (or up to two hours later, depending on the team’s tiered trade deadline). Trades involving WP made after this deadline will not be processed until after the agency period closes.
      - (5) Bidding will open Thursday night upon the finalization of WP totals.
      - (6) Bidding will close Friday night each week at 9:59:59 PM Eastern. Bids received after the declared time will not be considered.
-     -  (7) Free agents will be assigned by Saturday at 9:59:59 PM Eastern and be announced via a public thread on [/r/NLTP](https://www.google.com/url?q=https://www.reddit.com/r/NLTP&sa=D&ust=1580831369907000). Bid information will not be shared with the community. 
+     -  (7) Free agents will be assigned by Saturday at 9:59:59 PM Eastern and be announced via a public thread on [/r/NLTP](https://www.reddit.com/r/NLTP). Bid information will not be shared with the community. 
 - (c) Eligible Free Agents
      - (1) Free agents that are signed up will be eligible for NLTP's bidding period after passing through MLTP's free agency without being placed on an MLTP team (if applicable).
      - (2) To be considered an Eligible Free Agent, the player can not already be assigned to a MLTP, mLTP or NLTP team.
@@ -153,7 +153,7 @@
      - (6) Players dropped from MLTP teams will be restricted to playing A-Team only. A waiver may be granted for the player to play B-Team by the CRC.
      - (7) Players dropped after the final free agency period will not be eligible for NLTP.
      - (8) Free agents with any or both of >100 minutes of NLTP A-team minutes and >40 minutes of m/MLTP minutes in any of the previous 3 seasons will not be granted eligibility without a waiver; this excludes mLTP drops as described in rule (3).
-     - (9) Players who haven’t played in NALTP in the last three seasons will be evaluated for eligibility on a case-by-case basis.          -  (10) The Free Agency list will be linked on the [/r/NLTP](https://www.google.com/url?q=https://www.reddit.com/r/NLTP&sa=D&ust=1580831369908000) sidebar. Players highlighted in green have been approved for the next free agency period. Players highlighted in red have been declined. 
+     - (9) Players who haven’t played in NALTP in the last three seasons will be evaluated for eligibility on a case-by-case basis.          -  (10) The Free Agency list will be linked on the [/r/NLTP](https://www.reddit.com/r/NLTP) sidebar. Players highlighted in green have been approved for the next free agency period. Players highlighted in red have been declined. 
 - (d) Free Agent Bidding Process
      - (1) Each NLTP team will receive 20 waiver points (WPs) at the start of the season.
      - (2) After games in weeks 2-4, teams will receive additional waiver points each week based on their A-Team League standing at the conclusion of that week's A-Team games. Waiver points awarded by standings are as follows: 1st/2nd - 3 WP, 3rd/4th - 6 WP, 5th/6th - 9 WP, 7th/8th - 12 WP, 9th/10th - 15 WP, 11th/12th - 18 WP. Waiver points are NOT awarded according to B-team standings.
@@ -388,7 +388,7 @@
 - (b) Any hate speech will result in an immediate ban from the season.
 - (c) Players are encouraged to talk up their own skills, and even be arrogant about it, but are not allowed to put down other players or teams unless it is clear it is a joke.
 - (d) Players are encouraged to talk smack _before_ the match, but afterwards be cool about everything - _especially_ the winning team.
-- (e) Teams are subject to punishment if their players or captains partake in any of the following: Unnecessary spam to [/r/NLTP](https://www.google.com/url?q=https://www.reddit.com/r/NLTP&sa=D&ust=1580831369927000) or captains' modmail or spam to Discord channels.
+- (e) Teams are subject to punishment if their players or captains partake in any of the following: Unnecessary spam to [/r/NLTP](https://www.reddit.com/r/NLTP) or captains' modmail or spam to Discord channels.
 - (f) There is a catch-all "Don't Be a Dick" rule, of which any number of things it can encompass. Violations of the "DBAD" rule will be dealt with on a case-by-case basis as determined by the Rules Committee.
 
 ##### _Section II - In-game communication_
@@ -504,11 +504,11 @@
 ##### _Section I - TagPro Analytics and TagPro League (TPL)_
 
 - (a) TagPro League
-     -  (1) Statistics for all leagues are kept on [TagPro League](https://www.google.com/url?q=http://www.tagproleague.com/&sa=D&ust=1580831369942000).
+     -  (1) Statistics for all leagues are kept on [TagPro League](http://www.tagproleague.com/).
      - (2) Each captain will be given access to the "Captain's Hub" of TPL where they will be able to submit stats for each match.
      - (3) CRC members will have basic access to TPL to help with stats and rosters, but the owner of TPL may be contacted about issues via the "Submit and Issue or Feature" button at the bottom of the page. 
 - (b) TagPro Analytics
-     -  (1) Each captain and co-captain must install the script from the [TagPro Analytics](https://www.google.com/url?q=https://tagpro.eu/&sa=D&ust=1580831369943000) site.
+     -  (1) Each captain and co-captain must install the script from the [TagPro Analytics](https://tagpro.eu) site.
      - (2) Captains are responsible for submitting the "tagpro eu" from each half to the Captain's Hub of TPL.
      - (3) TagPro eu's must be submitted to TPL within 24 hours of the match. 
 - (c) Saving CSVs is the responsibility of both participating teams, and any match with incomplete or late submissions are subject to penalties from the commissioners.
