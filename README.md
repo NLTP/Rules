@@ -1,10 +1,64 @@
 # Official Rules for National League TagPro Season 17
 
+## Table of Contents
++ [Definitions](#definitions)
++ [Article I - League & Team Structure](#article-i---league--team-structure)
+    * [_Section I - League Basics_](#section-i---league-basics)
+    * [_Section II - Team Structure_](#section-ii---team-structure)
+    * [_Section III - Maps_](#section-iii---maps)
+    * [_Section IV - Schedule_](#section-iv---schedule)
+    * [_Section V - Games_](#section-v---games)
+    * [_Section VI - Rosters_](#section-vi---rosters)
++ [Article II - Roster Changes](#article-ii---roster-changes)
+    * [_Section I - Trades_](#section-i---trades)
+    * [_Section II - Free Agency Pickups_](#section-ii---free-agency-pickups)
+    * [_Section III - Loans Within NLTP_](#section-iii---loans-within-nltp)
+    * [_Section IV - Drops_](#section-iv---drops)
++ [Article III - Draft](#article-iii---draft)
+    * [_Section I - General Draft Information_](#section-i---general-draft-information)
+    * [_Section II - Auction Draft_](#section-ii---auction-draft)
+    * [_Section III - Snake Draft_](#section-iii---snake-draft)
+    * [_Section IV - Eligibility_](#section-iv---eligibility)
+    * [_Section V - Dual Eligibility_](#section-v---dual-eligibility)
++ [Article IV - Matches](#article-iv---matches)
+    * [_Section I - Match Scheduling_](#section-i---match-scheduling)
+    * [_Section II - Match Server Logistics_](#section-ii---match-server-logistics)
+    * [_Section III - Match Rules_](#section-iii---match-rules)
+    * [_Section IV - Overtime_](#section-iv---overtime)
++ [Article V - Substitutions & Timeouts](#article-v---substitutions--timeouts)
++ [Article VI - Cheating](#article-vi---cheating)
+    * [_Section I - Cheating_](#section-i---cheating)
+    * [_Section II - Approved (Legal) Scripts_](#section-ii---approved-legal-scripts)
+    * [_Section III - Prohibited (Illegal) Scripts_](#section-iii---prohibited-illegal-scripts)
++ [Article VII - Etiquette](#article-vii---etiquette)
+    * [_Section I - Etiquette_](#section-i---etiquette)
+    * [_Section II - In-game communication_](#section-ii---in-game-communication)
+    * [_Section III - Manipulation_](#section-iii---manipulation)
++ [Article VIII - Playoffs](#article-viii---playoffs)
+    * [_Section I - Teams and Seeding_](#section-i---teams-and-seeding)
+    * [_Section II - Tiebreakers_](#section-ii---tiebreakers)
+    * [_Section III - Maps_](#section-iii---maps-1)
+    * [_Section IV - Playoff Rounds and Match Structure_](#section-iv---playoff-rounds-and-match-structure)
+    * [_Section V - Eligibility Requirements_](#section-v---eligibility-requirements)
++ [Article IX - Statistics](#article-ix---statistics)
+    * [_Section I - TagPro Analytics and TagPro League (TPL)_](#section-i---tagpro-analytics-and-tagpro-league-tpl)
++ [Article X - Votes & Rule Changes](#article-x---votes--rule-changes)
+    * [_Section I - Votes_](#section-i---votes)
+    * [_Section II - Rule Changes_](#section-ii---rule-changes)
+    * [_Section III - Vote of Non-Confidence_](#section-iii---vote-of-non-confidence)
++ [Article XI - Appendix](#article-xi---appendix)
++ [Article XII - NLTP B-Team](#article-xii---nltp-b-team)
+    * [_Section I - General_](#section-i---general)
+
+---
+
 ### Definitions
 
 - Half = 10 minutes of an NLTP Game. 
 - Game = 20 minutes (two halves) of a weekly NLTP Matchup. 
 - Match = 40 minutes (two games) of a weekly NLTP A Matchup, and/or 60 minutes (three games) of a weekly NLTP B Matchup.
+
+---
 
 ### Article I - League & Team Structure
 
@@ -56,6 +110,8 @@
 
 - (a) Each NLTP franchise will have a team in two leagues, A-Team and B-team. NLTP teams will have no roster cap. Teams must have a minimum of 8 permanent players on their roster at any given time in the season.
 - (b) If the commissioners find that a player is unhappy with their situation due to limited playing time, the CRC will consult with the player’s captain to organize either a trade or provide more playing time.
+
+---
 
 ### Article II - Roster Changes
 
@@ -153,6 +209,8 @@
 - (d) After conferring with both the captain and the player to be dropped, the NLTP CRC will determine whether the player is to be dropped, held or forcibly traded. If the player is dropped for gross inactivity, the team will be rewarded with the equivalent of half of the player's auction value, rounded down.
 - (e) A player dropped for gross inactivity will be ineligible to be added by any team for the remainder of the season, including the team that dropped them.
 
+---
+
 ### Article III - Draft
 
 ##### _Section I - General Draft Information_
@@ -225,10 +283,12 @@
 - (g) On A-Team, positional restrictions will be enforced for all players that list that they will play only one position ("Offense only" or "Defense only") in their signup form. On B-Team players who played more than half of their minutes on A-Team or above in either the current season or their previous season will be restricted to the position they signed up as.
 - (h) If a player's signup indicates that they will not use a microphone, they must be muted during any official NLTP match. Failure to mute may result in the deduction of waiver points or points at the discretion of the CRC.
 
-##### _Section V - Dual Eligibility _
+##### _Section V - Dual Eligibility_
 
 - (a) Full dual eligibility will be allowed. If a player is called up to an MLTP team, the captain will be given until the next week’s games to decide whether to keep the player on their roster and grant dual eligibility, or to allow the player to play exclusively for the MLTP team and accept 100 WPs as compensation. It is expected that the captain and player communicate to decide the best option for the player and the team, and the decision to play for both teams must be mutual between the player and captain.
 - (b) If applicable, players who are drafted in the Dual Eligible slots during the MLTP and mLTP drafts - but not in any other slots - will be considered fully eligible for NLTP.
+
+---
 
 ### Article IV - Matches
 
@@ -274,6 +334,8 @@
 - (c) Overtime periods will be played until a winner is found.
 - (d) Overtime stats will not be counted towards regular season stats. They are submitted for scoring purposes only and are submitted by checking the "overtime" box when submitting stats. If there are multiple overtime periods, please use the "timeout" checkbox to add more periods.
 
+---
+
 ### Article V - Substitutions & Timeouts
 
 - (a) Timeouts are no longer permitted in NLTP Matches, except during 2 specific cases.
@@ -290,6 +352,8 @@
      - (3) The substitute can be in the "Spectator" slot and can be listening in on Discord, but they must be muted until the substitution is made.
      - (4) If a substituting team has more than four active players for an extensive amount of time, the team may be assessed a penalty determined by the commissioners.
      - (5) If a player is unable to leave the match, an inactive fifth ball may remain in play, provided it is not in a spot that disrupts play. If the inactive ball is in such a location for an extensive amount of time, the four active players must attempt to move the inactive player to a less disruptive spot. Teams with a fifth inactive ball that disrupts play may be assessed a penalty determined by the commissioners. 
+
+---
 
 ### Article VI - Cheating
 
@@ -313,6 +377,8 @@
 - (a) All scripts not found in the "no scripts" group option.
 - (b) Bomb/boost/powerup timers are strictly prohibited.
 - (c) Bots are strictly prohibited.
+
+---
 
 ### Article VII - Etiquette
 
@@ -346,6 +412,8 @@
 - (b) Players determined to be manipulating to alter their trade value may also be punished. Teams who benefit from this may be punished as well.
      - (1) Giving captains an ultimatum to trade you is not acceptable. For example, “Trade me or I’m ghosting” is a bannable offense.
      - (2) If there is a problem with a team, you can always ask for a trade and explain your reasoning to the captain. However, you signed up to participate in the league regardless of which captain drafts you and which team you end up on. 
+
+---
 
 ### Article VIII - Playoffs
 
@@ -429,6 +497,8 @@
 - (f) If a team's regular A-team player is unavailable for a week and is replaced by a B-team player, that B-team player is eligible to play on both A-team and B-team for that week. If the regular A-team player plays on B-team that week, the B-team sub is not eligible to play B-team.
     - After week 4, the four players who have played the most minutes on their A-team will not be eligible to play B-team unless the CRC grants a waiver. If more than four players are determined to be A-team by virtue of minutes, then the captain will declare the fourth player ineligible for B-team from the players who have the least amount of A-team minutes from the eligible group. Captains can request a waiver to replace a player in the top four minutes with another player if they intend for that player to be the A-team starter moving forward. Examples may include, but are not limited to, a free agent pick up, a player who was unavailable in the beginning weeks of the season, or a player who has won the starting spot late in the season.
 
+---
+
 ### Article IX - Statistics
 
 ##### _Section I - TagPro Analytics and TagPro League (TPL)_
@@ -445,6 +515,8 @@
 - (d) Teams are required to submit scores and tagpro eu's for all regular season and postseason games.
 - (e) If teams are not able to get tagpro eu's for any reason, then a csv or screenshot of the scoreboard will be acceptable, if there are no timeouts. Keep in mind this is not ideal.
 - (f) If at any point a half is played 3v4, or if the game is determined noncompetitive by the CRC, it runs the risk of being thrown out statistically. This is under the discretion of the CRC.
+
+---
 
 ### Article X - Votes & Rule Changes
 
@@ -479,6 +551,8 @@
 - (a) At any point in the season, a captain will be allowed to formally request a vote of no confidence for a CRC member. If the request is seconded by another captain, a vote will be held.
     - (1) If at least 75% of captains vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, he/she will be removed from the CRC.
 
+---
+
 ### Article XI - Appendix
 
 - (a) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that break the NLTP rules.
@@ -490,6 +564,8 @@
 - (g) The CRC agrees that an attack against one or more of them on the subreddit, Discord, or any other public forum shall be considered an attack against them all and consequently they agree that, if such an attack occurs, each of them will assist the CRC Member or Members so attacked by taking forthwith, individually and in concert with the other CRC Members, such action as it deems necessary, including the use of armed force, to restore and maintain the security of the CRC.
 - (h) Any player that becomes banned from playing TagPro will be ineligible to play in NLTP. They may remain on the roster and resume playing when they are no longer banned from TagPro. Playing on an alternate account to avoid the ban will result in league punishment and referral to the TagPro Moderators.
 - (i) The CRC has the right to interpret rules on a case-by-case basis for the sake of the league’s integrity and competitiveness.
+
+---
 
 ### Article XII - NLTP B-Team
 
