@@ -1,4 +1,4 @@
-# Official Rules for National League TagPro Season 17
+# Official Rules for National League TagPro Season 19
 
 ## Table of Contents
 + [Definitions](#definitions)
