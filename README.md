@@ -180,7 +180,9 @@
      - (9) If a player on a team is called up to MLTP and elects not to become a Dual Eligible Player, that team is advanced to the front of the waiver order. In the case that this applies to multiple teams, standings will be used to differentiate.
      - (10) If multiple claims are received from a single team, only the most recent submission will be considered valid. It is the responsibility of the NLTP Captain to fill the form out properly.
      - (11) Eligible captains will be allowed to claim themselves from waivers if they are in a position to do so.
-     - (12) Eligible co-captains seeking entry into NLTP must agree to enter into the waiver wire process, and are thus stripped of their title unless claimed by the team in which they are a co-captain. If a co-captain refuses to play for another team, they may face removal from the league on the grounds of collusion with their original team. 
+     - (12) Eligible co-captains seeking entry into NLTP must agree to enter into the waiver wire process, and are thus stripped of their title unless claimed by the team in which they are a co-captain. If a co-captain refuses to play for another team, they may face removal from the league on the grounds of collusion with their original team.
+     - (13) Minors Playing Captains who are dropped are ineligible for NLTP unless their team is first in the A-Team wire at the time of their drop.
+     - (14) Majors Playing Captains and Non-Playing Captains are ineligible for NLTP.
 - (f) Waiver Points
     - (1) Waiver points are non-existent and will not be allowed to be traded.
 - (g) NLTP Specific Instructions
