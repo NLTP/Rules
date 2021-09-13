@@ -1,34 +1,34 @@
 # Official Rules for National League TagPro Season 25
 
-- [Article 1 - League Overview](#article-1---league-overview)
+- [Article I - League Overview](#article-i---league-overview)
   * [_Section A - Leagues_](#-section-a---leagues-)
   * [_Section B - Schedule_](#-section-b---schedule-)
   * [_Section C - Servers_](#-section-c---servers-)
   * [_Section D - Games_](#-section-d---games-)
-- [Article 2 - Leadership Roles, Member Roles & Eligibility](#article-2---leadership-roles--member-roles---eligibility)
+- [Article II - Leadership Roles, Member Roles & Eligibility](#article-ii---leadership-roles--member-roles---eligibility)
   * [_Section A - The Chair and Rules Committee (CRC)_](#-section-a---the-chair-and-rules-committee--crc--)
   * [_Section B - The League Manager (LM)_](#-section-b---the-league-manager--lm--)
   * [_Section C - Captains and Co-Captains_](#-section-c---captains-and-co-captains-)
   * [_Section D - Players_](#-section-d---players-)
-- [Article 3 - Drafting](#article-3---drafting)
+- [Article III - Drafting](#article-iii---drafting)
   * [_Section A - General draft information_](#-section-a---general-draft-information-)
   * [_Section B - The auction draft_](#-section-b---the-auction-draft-)
   * [_Section C - The snake draft_](#-section-c---the-snake-draft-)
-- [Article 4 - Roster changes_](#article-4---roster-changes-)
+- [Article IV - Roster changes_](#article-iv---roster-changes-)
   * [_Section A - Trades_](#-section-a---trades-)
   * [_Section B - Free Agency_](#-section-b---free-agency-)
   * [_Section C - Loans_](#-section-c---loans-)
   * [_Section D - Drops_](#-section-d---drops-)
   * [_Section E - Captain Specific Roster Changes_](#-section-e---captain-specific-roster-changes-)
   * [_Section F - Dual Eligible Players (DEPs)_](#-section-f---dual-eligible-players--deps--)
-- [Article 5 - Positional, league, and scheduling restrictions.](#article-5---positional--league--and-scheduling-restrictions)
+- [Article V - Positional, league, and scheduling restrictions.](#article-v---positional--league--and-scheduling-restrictions)
   * [_Section A - Positional restrictions_](#-section-a---positional-restrictions-)
   * [_Section B - League restrictions_](#-section-b---league-restrictions-)
   * [_Section C - Scheduling restrictions_](#-section-c---scheduling-restrictions-)
-- [Article 6 - Maps](#article-6---maps)
+- [Article VI - Maps](#article-vi---maps)
   * [_Section A - Regular season_](#-section-a---regular-season-)
   * [_Section B - Playoffs_](#-section-b---playoffs-)
-- [Article 7 - Matches](#article-7---matches)
+- [Article VII - Matches](#article-vii---matches)
   * [_Section A - Match scheduling_](#-section-a---match-scheduling-)
   * [_Section B - Settings_](#-section-b---settings-)
   * [_Section C - Points and scoring_](#-section-c---points-and-scoring-)
@@ -37,27 +37,27 @@
   * [_Section F - Substitutions_](#-section-f---substitutions-)
   * [_Section G - Forfeits_](#-section-g---forfeits-)
   * [_Section H - Voice Channels_](#-section-h---voice-channels-)
-- [Article 8 - Playoffs](#article-8---playoffs)
+- [Article VIII - Playoffs](#article-viii---playoffs)
   * [_Section A - Team eligibility_](#-section-a---team-eligibility-)
   * [_Section B - Seeding_](#-section-b---seeding-)
   * [_Section C - Rounds_](#-section-c---rounds-)
-- [Article 8 - Cheating](#article-8---cheating)
+- [Article IX - Cheating](#article-ix---cheating)
   * [_Section A - Cheating_](#-section-a---cheating-)
   * [_Section B - Scripts_](#-section-b---scripts-)
   * [_Section C - Whistleblowing_](#-section-c---whistleblowing-)
   * [_Section D - Stock manipulation_](#-section-d---stock-manipulation-)
-- [Article 9 - Etiquette](#article-9---etiquette)
+- [Article X - Etiquette](#article-x---etiquette)
   * [_Section A - Etiquette_](#-section-a---etiquette-)
-- [Article 10 - Statistics](#article-10---statistics)
+- [Article XI - Statistics](#article-xi---statistics)
   * [_Section A - TagPro Analytics and TagPro League (TPL)_](#-section-a---tagpro-analytics-and-tagpro-league--tpl--)
-- [Article 11 - Votes, Vetoes, VONC’s, & Rule Changes](#article-11---votes--vetoes--vonc-s----rule-changes)
+- [Article XII - Votes, Vetoes, VONC’s, & Rule Changes](#article-xii---votes--vetoes--vonc-s----rule-changes)
   * [_Section A - Votes_](#-section-a---votes-)
   * [_Section B - Rule Changes_](#-section-b---rule-changes-)
   * [_Section C - Vetoes_](#-section-c---vetoes-)
   * [_Section D - Vote of No Confidence (VONC)_](#-section-d---vote-of-no-confidence--vonc--)
   * [_Article 12 - Appendix_](#-article-12---appendix-)
 ___
-### Article 1 - League Overview
+### Article I - League Overview
 
 ##### _Section A - Leagues_
 - (1) NLTP will be broken into two leagues: NLTP (A-team), and nLTP (B-team).
@@ -94,7 +94,7 @@ ___
    + (c) Game settings:
       - (i) See article 5 for game settings and other match information.
 ___
-### Article 2 - Leadership Roles, Member Roles & Eligibility
+### Article II - Leadership Roles, Member Roles & Eligibility
 
 #### _Section A - The Chair and Rules Committee (CRC)_
 - (1) CRC Structure Overview.
@@ -105,11 +105,11 @@ ___
 - (2) Chair and Vice Chair.
    + (a) Duties of the Chair.
       - (i) It is the Chair’s duty to lead the CRC and to represent it as a single leader. The Chair is tasked to maintain the general well being of the league.
-         * (1) It is the Chair’s responsibility to organize the CRC and its responsibilities.
-         * (2) The Chair is responsible for interpreting CRC rules for game time decisions (such as eligibility requirements).
-         * (3) The Chair is responsible for ensuring the CRC maintains connections with other leagues (MLTP) and the community at large.
-         * (4) In the event of a tied vote within the CRC, the chair will decide the outcome.
-         * (5) If the Chair is unable to serve in their role (either due to unavailability or recusal) the Vice Chair would fill their Role.
+         + (1) It is the Chair’s responsibility to organize the CRC and its responsibilities.
+         + (2) The Chair is responsible for interpreting CRC rules for game time decisions (such as eligibility requirements).
+         + (3) The Chair is responsible for ensuring the CRC maintains connections with other leagues (MLTP) and the community at large.
+         + (4) In the event of a tied vote within the CRC, the chair will decide the outcome.
+         + (5) If the Chair is unable to serve in their role (either due to unavailability or recusal) the Vice Chair would fill their Role.
    + (b) Chair Selection.
       - (i) At the conclusion of the season, the 5 members of the existing CRC will select among them who will serve as Chair for the upcoming season.
       - (ii) Any CRC member can serve as chair for the following season. There is no term limit on consecutive seasons a Chair can serve in that role.
@@ -241,7 +241,7 @@ See article 8 section 4 for more information on draft stock manipulation.
 - (4) Free agency eligibility and restrictions.
    + (a) See article 4 section 2 for eligibility and restrictions
 ___  
-### Article 3 - Drafting
+### Article III - Drafting
 #### _Section A - General draft information_
 - (1) The NLTP draft will be conducted in two parts. The first part will be an auction draft, followed by a snake draft.
 - (2) The draft date and time will be announced on /r/NLTP by the CRC. Captains are expected to arrive early to the draft and otherwise communicate their availability.
@@ -297,7 +297,7 @@ ___
    + (e) At the conclusion or each round the draft order is reversed. The last pick in round 1 will have the first pick in round 2 while the first pick in round 1 will have the last pick in round 2.
    + (f) The snake draft will continue until every eligible sign up has been drafted to a team.
 ___  
-### Article 4 - Roster changes_
+### Article IV - Roster changes_
 #### _Section A - Trades_
 - (1) Trades may be submitted by the captain or co-captain directly to the NLTP CRC via a trading form.
 - (2) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the NLTP CRC.
@@ -398,7 +398,7 @@ Example: If a player has played 40 total A-team minutes through week 2, they may
 - (5) It is expected that the captain and player communicate to decide the best option for the player and the team, and the decision to make the player Dual Eligible must be mutual between the player and captain.
 - (6) Active NLTP players who are called up to a Majors or Minors team AND play in Majors or Minors games will be ineligible to play NLTP B-team for the current week unless otherwise approved by the CRC.
 ___
-### Article 5 - Positional, league, and scheduling restrictions.
+### Article V - Positional, league, and scheduling restrictions.
 #### _Section A - Positional restrictions_
 - (1) On A-team, positional restrictions will be enforced for all players who list that they will play only one position ("Offense only" or "Defense only") in their signup. 
 - (2) On B-team, positional restrictions for offense or defense will only be enforced if the player's most recent season in the position opposite their current restriction resulted in a positional NISH of 70 or greater.
@@ -430,7 +430,7 @@ ___
 - (1) The CRC may enforce minute restrictions on a player commensurate with the availability they indicate in their signup comments.
    + (a) These minute restrictions will be communicated to the player and all captains prior to the NLTP draft.
 ___
-### Article 6 - Maps
+### Article VI - Maps
 #### _Section A - Regular season_
 - (1) Captain nominated maps.
    + (a) At the beginning of each season and after the draft, each captain will be asked to submit map nominations to be used in the map rotation.
@@ -444,7 +444,7 @@ ___
 - (1) Captains with a team in the playoffs will vote on the regular season map rotation to select 7 of the original 14 maps. 
 - (2) There will be separate votes for A-team and B-team playoffs and so the map rotations may differ.
 ___
-### Article 7 - Matches
+### Article VII - Matches
 #### _Section A - Match scheduling_
 - (1) By default, games will happen on the Tuesday or Wednesday published in the official schedule. 
 - (2) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time. These times can be different for A-team and B-team. The time will fall within boundaries to be determined by the CRC.
@@ -637,7 +637,7 @@ Failure to notify the CRC of such an event may be met by punishments including b
    + (b) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
    + (c) Captains and official Co-Captains are allowed to spectate and make in-game comments during the regular season B-team matches to help develop B-team level of play. This does not continue into the playoffs.
 ___
-### Article 8 - Playoffs
+### Article VIII - Playoffs
 #### _Section A - Team eligibility_
 - (1) The top 8 teams will advance to the playoffs.
 - (2)  A-team and A-team playoffs are independent.
@@ -666,7 +666,7 @@ ___
 - (2) Second round of 4 teams (semifinals) - "Foci Four."
 - (3) Final round of 2 teams (finals) - "Nuperball" and "Buperball" for A- and B-teams, respectively.
 ___
-### Article 8 - Cheating
+### Article IX - Cheating
 #### _Section A - Cheating_
 - (1) Cheating is strictly prohibited.
 - (2) Any player caught cheating will be dealt with on a case-by-case basis as determined by the NLTP CRC. The more severe the cheating, the more severe the punishment. The NLTP CRC may also take any other actions (whether related to cheating or not) which they feel are for the good of the league.
@@ -700,7 +700,7 @@ ___
       - (i) Giving captains an ultimatum to trade you is not acceptable. For example, “Trade me or I’m ghosting” is a bannable offense.
       - (ii) If there is a problem with a team, you can always ask for a trade and explain your reasoning to the captain. However, you signed up to participate in the league regardless of which captain drafts you and which team you end up on.
 ___
-### Article 9 - Etiquette
+### Article X - Etiquette
 #### _Section A - Etiquette_
 - (1) This is a fun game, and a fun league. This is not very serious, we are just out there to have a good time.
 - (2) Any hate speech in NLTP and/or NLTP adjacent channels or forums will result in an immediate ban from the season.
@@ -721,7 +721,7 @@ ___
    + (i) The League Manager.
 - (9) CRC members have the right to enter any oficial NLTP match group if requested.
 ___
-### Article 10 - Statistics
+### Article XI - Statistics
 #### _Section A - TagPro Analytics and TagPro League (TPL)_
 - (1) TagPro Analytics
    + (a) Each captain and co-captain must install the script from the TagPro Analytics site.
@@ -737,7 +737,7 @@ ___
 - (6) If at any point a half is played 3v4, or if the game is determined noncompetitive by the CRC, it runs the risk of being thrown out statistically at the discretion of the CRC.
 - (7) If a player should receive more than 40 minutes on B-team for any reason excluding overtime, their stats will be pro-rated to 40 minutes.
 ___
-### Article 11 - Votes, Vetoes, VONC’s, & Rule Changes
+### Article XII - Votes, Vetoes, VONC’s, & Rule Changes
 #### _Section A - Votes_
 - (1) Voting on official league business will be done via the captains’ chat (a private discord channel) for most issues, and via private message to the NLTP commissioners on sensitive issues.
    - (a) Votes may also be collected through forms or via the TToC_Bot
