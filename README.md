@@ -12,7 +12,7 @@
 ##### _Section 2 - Schedule_
 - (1) By default, A-team games will be played on Tuesday nights while B-team games will be played Wednesday nights.
 - (2) There will be 7 weeks in the regular season and 3 rounds of playoffs for a total of 10 weeks.
-- 
+
 #### _Section 3 - Servers_
 - (1) Valid home servers will be:
    - (a) New York
