@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Article I - League Overview](#article-i---league-overview)
-  * [_Section A - Leagues_](#-section-a---leagues-)
+  * [_Section A - Leagues_](#section-a---leagues)
   * [_Section B - Schedule_](#-section-b---schedule-)
   * [_Section C - Servers_](#-section-c---servers-)
   * [_Section D - Games_](#-section-d---games-)
