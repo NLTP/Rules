@@ -1,5 +1,6 @@
 # Official Rules for National League TagPro Season 25
 
+## Table of Contents
 - [Article I - League Overview](#article-i---league-overview)
   * [_Section A - Leagues_](#-section-a---leagues-)
   * [_Section B - Schedule_](#-section-b---schedule-)
@@ -61,7 +62,7 @@ ___
 
 ##### _Section A - Leagues_
 - (1) NLTP will be broken into two leagues: NLTP (A-team), and nLTP (B-team).
-- (2) Each A-team will have an affiliated-B-team with the same official name, captain, and co-captain.
+- (2) Each A-team will have an affiliated-B-team with the same official name, captain and co-captain.
 
 ##### _Section B - Schedule_
 - (1) By default, A-team games will be played on Tuesday nights while B-team games will be played Wednesday nights.
