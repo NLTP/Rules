@@ -86,7 +86,7 @@ ___
       - (ii) Game = 20 minutes (two halves) of a weekly NLTP Matchup.
       - (iii) Half = 10 minutes of an NLTP Game.
    + (b) Game settings.
-      - (i) See article 5 for game settings and other match information.
+      - (i) See [XII, B](#-section-b---settings-) for game settings and other match information.
 - (2) Playoffs.
    + (a) There will be one elimination series per week for each team in the playoffs.
       - (i) Series = Best of 7 ten minute games
