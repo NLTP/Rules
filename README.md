@@ -87,13 +87,13 @@ ___
       - (ii) Game = 20 minutes (two halves) of a weekly NLTP Matchup.
       - (iii) Half = 10 minutes of an NLTP Game.
    + (b) Game settings.
-      - (i) See [Article XII, Section B](#-section-b---settings-) for game settings and other match information.
+      - (i) See [Article XII, Section B](#section-b---settings) for game settings and other match information.
 - (2) Playoffs.
    + (a) There will be one elimination series per week for each team in the playoffs.
       - (i) Series = Best of 7 ten minute games
    + (b) There will be 8 teams in the playoffs for each league determined by regular season standings.
    + (c) Game settings:
-      - (i) See [Article XII, Section B](#-section-b---settings-) for game settings and other match information.
+      - (i) See [Article XII, Section B](#section-b---settings) for game settings and other match information.
 ___
 ### Article II - Leadership Roles, Member Roles & Eligibility
 
@@ -232,7 +232,7 @@ Players currently on a different NLTP team may not be replacement captains.
    + (c) Players removed from the MLTP draft by the MLTP CRC are not eligible to enter the NLTP draft.
    + (d) Signups indicating zero availability on both Tuesday and Wednesday nights will be contacted by the CRC and removed if a conclusion cannot be reached.
    + (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP.
-See [Article XI, section D](#-section-d---stock-manipulation-) for more information on draft stock manipulation.
+See [Article XI, section D](#section-d---stock-manipulation) for more information on draft stock manipulation.
    + (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the NLTP CRC.
 - (2) Dual eligibility.
    + (a) If applicable, players who are drafted in the Dual Eligible slots during the MLTP and mLTP drafts - but not in any other slots - will be considered fully eligible for NLTP.
@@ -240,7 +240,7 @@ See [Article XI, section D](#-section-d---stock-manipulation-) for more informat
 - (3) Gross Inactivity and misconduct drops.
    + (a) Players dropped in their previous season for Gross Inactivity or misconduct may be barred from NLTP at CRC discretion. 
 - (4) Free agency eligibility and restrictions.
-   + (a) See [Article IV, Section B, Part 3](#-section-b---free-agency-) for eligibility and restrictions
+   + (a) See [Article IV, Section B, Part 3](#section-b---free-agency) for eligibility and restrictions
 ___  
 ### Article III - Drafting
 #### _Section A - General draft information_
