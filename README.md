@@ -14,7 +14,7 @@
   * [_Section A - General draft information_](#-section-a---general-draft-information-)
   * [_Section B - The auction draft_](#-section-b---the-auction-draft-)
   * [_Section C - The snake draft_](#-section-c---the-snake-draft-)
-- [Article IV - Roster changes_](#article-iv---roster-changes-)
+- [Article IV - Roster changes](#article-iv---roster-changes)
   * [_Section A - Trades_](#-section-a---trades-)
   * [_Section B - Free Agency_](#-section-b---free-agency-)
   * [_Section C - Loans_](#-section-c---loans-)
@@ -86,19 +86,19 @@ ___
       - (ii) Game = 20 minutes (two halves) of a weekly NLTP Matchup.
       - (iii) Half = 10 minutes of an NLTP Game.
    + (b) Game settings.
-      - (i) See [XII, B](#-section-b---settings-) for game settings and other match information.
+      - (i) See [Article XII, Section B](#-section-b---settings-) for game settings and other match information.
 - (2) Playoffs.
    + (a) There will be one elimination series per week for each team in the playoffs.
       - (i) Series = Best of 7 ten minute games
    + (b) There will be 8 teams in the playoffs for each league determined by regular season standings.
    + (c) Game settings:
-      - (i) See article 5 for game settings and other match information.
+      - (i) See [Article XII, Section B](#-section-b---settings-) for game settings and other match information.
 ___
 ### Article II - Leadership Roles, Member Roles & Eligibility
 
 #### _Section A - The Chair and Rules Committee (CRC)_
 - (1) CRC Structure Overview.
-   + (a)The CRC will consist of 5 members with equal voting power and rights.
+   + (a) The CRC will consist of 5 members with equal voting power and rights.
       - (i) One member of the CRC will serve as Chair. A second will serve as Vice Chair. 
    + (b) At the conclusion of every season, 2 new members of the CRC will be elected.  Up to 2 members of the CRC will retire to make room for these two new members.
    + (c) The 2 new members of the CRC will be elected. One will be elected by a combined vote of the previous season’s CRC and Captains. The second will be elected by the community.
@@ -173,7 +173,7 @@ ___
       - (i) Direct Playing Captain (DPC): The captain is a playing member of their roster, will start on their own draft board during the auction draft, and will receive TagCoins for the draft relative to their perceived skill.
       - (ii) Non-Playing Captain (NPC): The captain is not a playing member of their roster. The captain will select another player from the draft board who, after mutual agreement, will start on their draft board during the auction draft as a preliminary pick. The captain will receive TagCoins for the draft relative to the perceived skill of their preliminary pick.
       - (iii) Indirect Playing Captain (IPC): The captain wishes to be a DPC but is deemed too skilled to skip the MLTP draft. If the captain is drafted to a Minor League team they may elect to become a NPC or forfeit their captaincy role. If the captain is not drafted to an MLTP team they will be accepted as a DPC.
-         * (1) Applicants may be deemed too skilled according to statistical thresholds or according to CRC discretion (see Article II, Section 3, Part 2 - Eligibility and restrictions).
+         * (1) Applicants may be deemed too skilled according to statistical thresholds or according to CRC discretion (see below Article II, Section C, Part 2 - Eligibility and restrictions).
       - (iv) Non-Playing Captain, B-team (NPCb): The captain wishes to be a DPC but is deemed too unskilled to be a starter in NLTP (A-team). The captain will follow the NPC guidelines in addition to forfeiting one snake round pick to be determined by the CRC. The forfeited snake round pick will reflect the NPCb drafting themself to their roster and the NPCb will therefore be ineligible to be drafted by any other team. 
    + (e) There will be one possible General Manager type, GM.
       - (i) General Manager (GM): The General Manager is not a playing member of their roster. GM’s do not receive preliminary picks and each GM receives the same number of TagCoins for the draft. The league must have entirely GM’s or no GM’s, there is no possibility of a partial GM season.
@@ -231,15 +231,15 @@ Players currently on a different NLTP team may not be replacement captains.
    + (c) Players removed from the MLTP draft by the MLTP CRC are not eligible to enter the NLTP draft.
    + (d) Signups indicating zero availability on both Tuesday and Wednesday nights will be contacted by the CRC and removed if a conclusion cannot be reached.
    + (e) Players determined to be manipulating their value prior to the draft may be removed from the draft and/or subject to punishment in NALTP.
-See article 8 section 4 for more information on draft stock manipulation.
+See [Article XI, section D](#-section-d---stock-manipulation-) for more information on draft stock manipulation.
    + (f) All other eligibility and restriction cases will be dealt with on a case-by-case measure through the NLTP CRC.
 - (2) Dual eligibility.
    + (a) If applicable, players who are drafted in the Dual Eligible slots during the MLTP and mLTP drafts - but not in any other slots - will be considered fully eligible for NLTP.
-   + (b) For all other information on DEPs please see Article 4 section 6.
+   + (b) For all other information on DEPs please see [Article IV, Section F](#section-f---dual-eligible-players-deps).
 - (3) Gross Inactivity and misconduct drops.
    + (a) Players dropped in their previous season for Gross Inactivity or misconduct may be barred from NLTP at CRC discretion. 
 - (4) Free agency eligibility and restrictions.
-   + (a) See article 4 section 2 for eligibility and restrictions
+   + (a) See [Article IV, Section B, Part 3](#-section-b---free-agency-) for eligibility and restrictions
 ___  
 ### Article III - Drafting
 #### _Section A - General draft information_
@@ -297,7 +297,7 @@ ___
    + (e) At the conclusion or each round the draft order is reversed. The last pick in round 1 will have the first pick in round 2 while the first pick in round 1 will have the last pick in round 2.
    + (f) The snake draft will continue until every eligible sign up has been drafted to a team.
 ___  
-### Article IV - Roster changes_
+### Article IV - Roster changes
 #### _Section A - Trades_
 - (1) Trades may be submitted by the captain or co-captain directly to the NLTP CRC via a trading form.
 - (2) All trades must be approved by the captain or co-captain of both teams, and can be vetoed by the NLTP CRC.
@@ -307,10 +307,10 @@ ___
 - (6) Trades involving waiver wire position are prohibited.
 - (7) Trades will take effect immediately after being approved by the NLTP CRC unless otherwise requested by the captains involved or announced by the CRC.
 - (8) Trade offers may not be retracted once they have been submitted unless one party can provide evidence to the CRC that they were misled by the other in some significant manner.
-- (9) Captains cannot be traded. See Article 4 Section 5 for more information.
+- (9) Captains cannot be traded. See [Article IV, Section E](#section-e---captain-specific-roster-changes) for more information.
 - (10) After week 3 A-team games and until the trade deadline, any trade submitted which exchanges a player outside of the top 4 A-team minutes for a player within or tied for the top 4 A-team minutes will result in the player outside of the top 4 A-team minutes being restricted to A-team for the remainder of the season. 
    + (a) If the team receiving the newly restricted player wishes to transfer that restriction to another member of their roster they must get approval from the CRC before the trade is approved. Trades covered by this outline may also be denied for the traditional reasons of imbalance, etc.
-   + (b) See Article 5 Section 2 Part 1 for information on restrictions.
+   + (b) See [Article V, Section B](#section-b---league-restrictions) for information on restrictions.
 #### _Section B - Free Agency_
 - (1) Basic overview:
    + (a) NLTP teams will use the free agency system if they wish to add a player (or players) to their roster.
@@ -410,7 +410,7 @@ ___
 #### _Section B - League restrictions_
 - (1) Regular season.
    + (a) Anyone on a team's roster is eligible to play on A-team.
-      - (i) This rule does not apply to NPCb captains. See article 7 section 4 for more information on NPCb minutes.
+      - (i) This rule does not apply to NPCb captains. See [Article VII, Section D](#section-d---minute-minimums-and-maximums) for more information on NPCb minutes.
    + (b) The top four players in total A-team minutes on each team’s roster are ineligible to play B-team if they have any A-team minutes that week.
    + (c) If a team's regular A-team starter (as determined by top four A-team minutes) is unavailable for a week (0 playing minutes) and is replaced by a B-team player, that B-team player will be eligible to play B-team as well that week.
       - (i) If the regular A-team starter plays on B-team that week, the B-team sub is not eligible to play A-team.
@@ -420,7 +420,7 @@ ___
       - (i) Examples may include, but are not limited to, a free agent pick up, a player who was unavailable in the beginning weeks of the season, or a player who has won the starting spot late in the season.
 - (2) Playoffs.
    + (a) Anyone on a team's roster is eligible to play on A-team.
-      - (i) This rule does not apply to NPCb captains. See article 7 section 4 for more information on NPCb minutes.
+      - (i) This rule does not apply to NPCb captains. See [Article VII, Section D](#section-d---minute-minimums-and-maximums) for more information on NPCb minutes.
    + (b) Players must have a minimum of 40 minutes during the regular season to be eligible for B-team playoffs.
    + (c) Anyone on a team’s roster designated as A-team during the regular season is ineligible for B-team playoff games.
    + (d) Anyone on a team’s roster designated as B-team may play up to and including 50% of the available A-team minutes (not including overtime) and retain their B-team eligibility.
@@ -771,7 +771,7 @@ ___
 - (1) At any point in the season, a captain will be allowed to formally request a vote of no-confidence for a CRC member. If the request is seconded by another captain, a vote will be held.
    + (a) If at least 75% of captains vote in favor of the CRC member’s removal, the CRC member’s position will be voted on by the remaining four CRC members. If 3 of the remaining CRC members vote in favor of removing the CRC member, they will be removed from the CRC immediately. If the CRC members do not vote in favor, the member is not removed, but automatically retires at the conclusion of the season.
    + (b) In the event of this, the CRC member must wait at least 1 full season before running for reelection to the CRC.
-   + (c) See Article II, Section 1, Part 5 for vacancy information.
+   + (c) See [Article II, Section A, Part 4-5](#section-a---the-chair-and-rules-committee-crc) for vacancy information.
 ___
 #### _Article 12 - Appendix_
 - (1) Teams are subject to punishment if their players or captains partake in any of the following: violation of the DBAD rule, spam on Discord, spam on Reddit, or any other action that break the NLTP rules.
