@@ -56,7 +56,7 @@
   * [_Section B - Rule Changes_](#section-b---rule-changes)
   * [_Section C - Vetoes_](#section-c---vetoes)
   * [_Section D - Vote of No Confidence (VONC)_](#section-d---vote-of-no-confidence-vonc)
-- [_Article 12 - Appendix_](#article-12---appendix)
+- [Article 12 - Appendix](#article-12---appendix)
 ___
 ### Article I - League Overview
 
