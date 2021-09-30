@@ -137,10 +137,10 @@ ___
       - (ii) The candidate with the highest Borda Count fills the seat.
    + (e) The second seat will be filled by a vote of the NLTP Community from the remaining applicants.
       - (i) The NLTP Community is defined as:
-         * (1) Players and Non-Playing Captains from the previous 3 seasons of NLTP, and/or
+         * (1) Players and Non-Playing Captains from the previous 3 seasons of NLTP and/or
          * (2) Players signed up for the current season’s draft at the time of ballot posting whose last season of play was in NLTP. 
       - (ii) The Vote will use an Instant Runoff Vote (IRV) with partial ranked ballots (voters rank as many candidates as they would like).
-      - (iii) The winner of the IRV will fill the 2nd seat
+      - (iii) The winner of the IRV will fill the 2nd seat.
 - (5) Vacancies:
    + (a) In the event of an unexpected vacancy on the CRC midseason (due to a retirement, VONC, or other issue), the remaining CRC members will appoint a replacement for the remainder of the season.
       - (i) At the conclusion of the season, the appointed member is retired, and that seat becomes one of the two open seats in the election.
@@ -185,17 +185,18 @@ ___
    + (b) Players who wish to DPC or NPCb may be restricted to NPC/IPC or DPC roles respectively by the CRC based on skill level and strength of signups.
       - (i) The CRC will communicate any such restrictions with the applicant and attempt to reach an agreement.
       - (ii) A DPC signup will be considered overqualified if they meet any of the following criteria for their most recent season of NALTP:
-         * (1) They played the majority of their minutes in MLTP (majors or minors),
-         * (2) They played at least half of total available regular-season minutes in minors AND had a positional or total NISH of 70 or higher,
-         * (3) They played at least half of total available regular-season minutes in NLTP-A AND had a positional or total NISH of 90 or higher, or
+         * (1) They played the majority of their minutes in MLTP (majors or minors);
+         * (2) They played at least half of total available regular-season minutes in minors AND had a positional or total NISH of 70 or higher;
+         * (3) They played at least half of total available regular-season minutes in NLTP-A AND had a positional or total NISH of 90 or higher; or
          * (4) The player is deemed by the CRC to be beyond the skill level of NLTP.
    + (c) Applicants who are likely to play in NLTP as determined by the CRC will be ineligible for NPC captaincy.
    + (d) CRC members may only captain as a last resort. They should not be considered an option unless they end up at a deficit for captains and have issued additional calls for more qualified captains.
       - (i) CRC captains automatically recuse themselves from:
-         * (1) Any vote or discussion involving their team,
-         * (2) Any vote or discussion on an action that would adjust league standings,
-         * (3) Any vote or discussion for a disciplinary action that would suspend a player on an opponent they are scheduled to face in the suspension period, and
-         * (4) Any trade or free agency/waiver approval, in addition to not being allowed to view that info prior to other captains.
+         * (1) Any vote or discussion involving their team;
+         * (2) Any vote or discussion on an action that would adjust league standings;
+         * (3) Any vote or discussion for a disciplinary action that would suspend a player on an opponent they are scheduled to face in the suspension period; and
+         * (4) Any trade or free agency/waiver approval.
+              * (aa) Additionally, CRC captains are not allowed to view FA/waiver info prior to other captains.
       - (ii) CRC captains may not acquire another CRC member to play on or Co-captain their team.
    + (e) Official Co-Captains are not permitted to be members of any team other than the one they are co-captaining. If a Co-Captain should end up on any other roster than the one they are co-captaining, they will be removed from their position as official Co-Captain. 
    + (f) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in NLTP as determined by the CRC.
@@ -222,9 +223,9 @@ Players currently on a different NLTP team may not be replacement captains.
 - (1) Signup eligibility:
    + (a) Players who have signed up for the MLTP draft and are not on an MLTP roster at the end of the draft will be eligible, and automatically entered into, the NLTP Draft.
       - (i) If an overqualified player indicates that they are not available on Mondays for the MLTP draft, they will not be eligible for NLTP. Players qualify for this rule if they meet any of the following criteria for their most recent season of NALTP:
-         * (1) They played the majority of their minutes in MLTP (majors or minors),
-         * (2) They played at least half of total available regular-season minutes in minors AND had a positional or total NISH of 70 or higher,
-         * (3) They played at least half of total available regular-season minutes in NLTP-A AND had a positional or total NISH of 90 or higher, or
+         * (1) They played the majority of their minutes in MLTP (majors or minors);
+         * (2) They played at least half of total available regular-season minutes in minors AND had a positional or total NISH of 70 or higher;
+         * (3) They played at least half of total available regular-season minutes in NLTP-A AND had a positional or total NISH of 90 or higher; or
          * (4) The player is deemed by the CRC to be beyond the skill level of NLTP.
       - (ii) Players will not be permitted to switch positions to circumvent this rule.
       - (iii) It is the responsibility of the player to confirm their eligibility for the draft.
@@ -288,11 +289,11 @@ ___
    + (b) The snake draft order will be determined by the number of remaining TCs of each team, prorated by their initial balance.
       - (i) Ties will be resolved using a random generator.
       - (ii) Proration example:
-         * (1) Captain A begins with 100 TCs and ends with 6 TCs, or 6 pro-rated TCs. (100/100*6)
-         * (2) Captain B begins with 100 TCs and ends with 0 TCs, or 0 pro-rated TCs.
-         * (3) Captain C begins with 80 TCs and ends with 6 TCs, or 7.5 pro-rated TCs (100/80*6)
+         * (1) Captain A begins with 100 TCs and ends with 6 TCs, or 6 pro-rated TCs (100/100\*6);
+         * (2) Captain B begins with 100 TCs and ends with 0 TCs, or 0 pro-rated TCs;
+         * (3) Captain C begins with 80 TCs and ends with 6 TCs, or 7.5 pro-rated TCs (100/80\*6); and
          * (4) Captain D begins with 80 TCs and ends with 0 TCs, or 0 pro-rated TCs.
-         * (5) The draft order would be: C, A, B/D (RNG).
+         * (5) The draft order would be: C, A, B/D (coinflip).
    + (c) The team with the most prorated TCs will pick 1st in the 1st round.
    + (d) Teams will have 60 seconds to submit a snake pick. Failure to select a player will result in the top player from the big board being added to their roster.
    + (e) At the conclusion or each round the draft order is reversed. The last pick in round 1 will have the first pick in round 2 while the first pick in round 1 will have the last pick in round 2.
@@ -471,38 +472,38 @@ ___
          - (1) If captains cannot agree on their A and B colors, either one may share their screen with the other as they use a randomizer or the captains may appeal to the CRC who will exasperatedly flip a coin on their behalf. 
    + (c) Game settings:
       - (i) Half 1:
-         * (1) Capture limit set to none,
-         * (2) Time limit set to 10 minutes,
-         * (3) Overtime set to off,
-         * (4) Mercy rule disabled,
-         * (5) Acceleration set to 100%,
-         * (6) Top speed set to 100%,
-         * (7) Bounciness set to 100%,
-         * (8) Player respawn time set to 3 seconds,
-         * (9) Boost respawn time set to 10 seconds,
-         * (10) Bomb respawn time set to 30 seconds,
-         * (11) Powerup respawn time set to 1 minute,
-         * (12) Powerup delay set to 60 seconds,
-         * (13) Userscripts: Disabled,
-         * (14) Respawn Warnings: Disabled, and
+         * (1) Capture limit set to none;
+         * (2) Time limit set to 10 minutes;
+         * (3) Overtime set to off;
+         * (4) Mercy rule disable;
+         * (5) Acceleration set to 100%;
+         * (6) Top speed set to 100%;
+         * (7) Bounciness set to 100%;
+         * (8) Player respawn time set to 3 seconds;
+         * (9) Boost respawn time set to 10 seconds;
+         * (10) Bomb respawn time set to 30 seconds;
+         * (11) Powerup respawn time set to 1 minute;
+         * (12) Powerup delay set to 60 seconds;
+         * (13) Userscripts: Disabled;
+         * (14) Respawn Warnings: Disabled; and
          * (15) Single World Joiner disabled and set to the appropriate server according to the NLTP server chart.
       - (ii) Half 2:
-         * (1) Time limit set to 10 minutes,
+         * (1) Time limit set to 10 minutes;
          * (2) Half 2 Overtime selected in the competitive stats script. Scores from half one are automatically input at the beginning of the half;
-            + (aa) Overtime on,
-            + (bb) Overtime respawn increment: Disabled,
-            + (cc) Overtime bonus Juke Juices: Disabled,
-         * (3) Mercy rule disabled,
-         * (4) Acceleration set to 100%,
-         * (5) Top speed set to 100%,
-         * (6) Bounciness set to 100%,
-         * (7) Player respawn time set to 3 seconds,
-         * (8) Boost respawn time set to 10 seconds,
-         * (9) Bomb respawn time set to 30 seconds,
-         * (10) Powerup respawn time set to 1 minute,
-         * (11) Powerup delay set to 60 seconds,
-         * (12) Userscripts: Disabled,
-         * (13) Respawn Warnings: Disabled, and
+            + (aa) Overtime on;
+            + (bb) Overtime respawn increment: Disabled;
+            + (cc) Overtime bonus Juke Juices: Disabled;
+         * (3) Mercy rule disabled;
+         * (4) Acceleration set to 100%;
+         * (5) Top speed set to 100%;
+         * (6) Bounciness set to 100%;
+         * (7) Player respawn time set to 3 seconds;
+         * (8) Boost respawn time set to 10 seconds;
+         * (9) Bomb respawn time set to 30 seconds;
+         * (10) Powerup respawn time set to 1 minute;
+         * (11) Powerup delay set to 60 seconds;
+         * (12) Userscripts: Disabled;
+         * (13) Respawn Warnings: Disabled; and
          * (14) Single World Joiner disabled and set to the appropriate server according to the NLTP server chart.
    + (d) Server settings:
       - (i) Default servers will follow the NLTP server chart published by the CRC.
