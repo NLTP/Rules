@@ -416,7 +416,7 @@ ___
       - (i) This rule does not apply to NPCb captains. See [Article VII, Section D](#section-d---minute-minimums-and-maximums) for more information on NPCb minutes.
    + (b) The top four players in total A-team minutes on each team’s roster are ineligible to play B-team if they have any A-team minutes that week.
    + (c) If a team's regular A-team starter (as determined by top four A-team minutes) is unavailable for a week (0 playing minutes) and is replaced by a B-team player, that B-team player will be eligible to play B-team as well that week.
-      - (i) If the regular A-team starter plays on B-team that week, the B-team sub is not eligible to play A-team.
+      - (i) If the regular A-team starter plays on B-team that week, the player who substituted on A-team is not eligible to play B-team.
       - (ii) Dual eligibility will not be allowed during week 1 for players drafted during the auction or in the first snake round.
    + (d) At the conclusion of week 4 games, the four players who have played the most minutes on their A-team will become ineligible to play B-team unless granted a waiver by the CRC. If more than four players are determined to be A-team by virtue of minutes (ie. a tie), the captain must select players with the fewest minutes from that pool to retain B-team eligibility until there are only four players ineligible for B-team.
    + (e) Captains can request a waiver to replace a player in the top four minutes with another player if they intend for that player to be the A-team starter moving forward.
