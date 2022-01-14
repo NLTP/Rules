@@ -1,4 +1,4 @@
-# Official Rules for National League TagPro Season 25
+# Official Rules for National League TagPro Season 26
 
 ## Table of Contents
 - [Article I - League Overview](#article-i---league-overview)
@@ -91,8 +91,9 @@ ___
 - (2) Playoffs:
    + (a) There will be one elimination series per week for each team in the playoffs.
       - (i) Series = Best of 7 ten minute games.
-   + (b) There will be 8 teams in the playoffs for each league determined by regular season standings.
-   + (c) Game settings:
+   + (b) There will be 8 A-teams in the playoffs determined by regular season standings.
+   + (c) All 10 B-teams will make the playoffs.
+   + (d) Game settings:
       - (i) See [Article XII, Section B](#section-b---settings) for game settings and other match information.
 ___
 ### Article II - Leadership Roles, Member Roles & Eligibility
@@ -148,10 +149,10 @@ ___
    + (b) In the event of an unexpected retirement at the end of a season (i.e. a newer member elects to retire early), that seat becomes one of the two vacancies for election.
    + (c) In the event that 3 or more vacancies are present on the CRC, the remaining CRC members or a designated Transition Committee will conduct a special election to establish the new CRC.
 - (6) Members:
-   + (a) The Chair for season 25 will be IfYouSeekAmy.
-   + (b) The Rules Committee will consist of Cheezedoodle (Vice Chair), A$AP, Activ. and SmallyBigs.
-   + (c) The current Captain/CRC elected members are Cheezedoodle and Activ..
-   + (d) The current community elected members are A$AP, SmallyBigs and IfYouSeekAmy.
+   + (a) The Chair for season 26 will be IfYouSeekAmy.
+   + (b) The Rules Committee will consist of Cheezedoodle (Vice Chair), SmallyBigs, Hjalpa and pk.
+   + (c) The current Captain/CRC elected members are Cheezedoodle and Hjalpa.
+   + (d) The current community elected members are SmallyBigs, pk and IfYouSeekAmy.
 
 #### _Section B - The League Manager (LM)_
 - (1) League Manager structure overview:
@@ -162,12 +163,12 @@ ___
 - (3) Retirement:
    + (a) The League Manager is not permitted to retire from their position without naming a suitable replacement to be approved by the CRC.
 - (4) Members:
-   + (a) The League Manager for Season 25 will be poeticalto
-      - (i) There will be two LM assistants for Season 25, big brother and Hjalpa.
+   + (a) The League Manager for Season 26 will be poeticalto
+      - (i) There will be one LM assistant for Season 26, big brother.
 
 #### _Section C - Captains and Co-Captains_
 - (1) Captaincy and Co-Captaincy structure overview:
-   + (a) For each team in NLTP there will be a single Captain or General Manager (GM).
+   + (a) For each team in NLTP there will be a Captain, General Manager (GM) or duo Captaincy.
    + (b) Captains or GMs will be responsible for drafting and managing both an A-team and a B-team, selecting default game times, selecting default servers, organizing scrimmages, electing the CRC of the following season, and anything else required or requested of them by both the CRC and their team.
    + (c) The number of captains or GMs will be decided by the CRC prior to the draft.
    + (d) There will be four possible captaincy types, DPC, NPC, IPC, NPCb:
@@ -196,7 +197,6 @@ ___
          * (2) Any vote or discussion on an action that would adjust league standings;
          * (3) Any vote or discussion for a disciplinary action that would suspend a player on an opponent they are scheduled to face in the suspension period; and
          * (4) Any trade or free agency/waiver approval.
-              * (aa) Additionally, CRC captains are not allowed to view FA/waiver info prior to other captains.
       - (ii) CRC captains may not acquire another CRC member to play on or Co-captain their team.
    + (e) Official Co-Captains are not permitted to be members of any team other than the one they are co-captaining. If a Co-Captain should end up on any other roster than the one they are co-captaining, they will be removed from their position as official Co-Captain. 
    + (f) Official Co-Captains may not be decided or announced prior to the draft if there is a possibility of them playing in NLTP as determined by the CRC.
@@ -245,34 +245,42 @@ See [Article XI, section D](#section-d---stock-manipulation) for more informatio
 ___  
 ### Article III - Drafting
 #### _Section A - General draft information_
-- (1) The NLTP draft will be conducted in two parts. The first part will be an auction draft, followed by a snake draft.
+- (1) The NLTP draft will be conducted in three parts. The first part will be an A-team auction draft, followed by a B-team auction draft and concluding with a snake draft which continues until all players have been assigned to a team.
+   + (a) In the A-team auction teams will draft until they have filled 4 roster spots (3 players drafted).
+   + (b) In the B-team auction teams will draft until they have filled 4 B-team roster spots (4 players drafted, 8 roster spots filled).
 - (2) The draft date and time will be announced on /r/NLTP by the CRC. Captains are expected to arrive early to the draft and otherwise communicate their availability.
-#### _Section B - The auction draft_
+#### _Section B - The auction drafts_
 - (1) Seasons with traditional captaincy (DPC, IPC, IPC, NPCb).
-   + (a) TagCoins (TCs):
-      - (i) Each team will receive a budget of TagCoins determined by the CRC on a case-by-case basis.
+   + (a) TagCoins (TC):
+      - (i) There will be two forms of TagCoins, ATC and BTC.
+         * (1) ATC = A-team TagCoin
+         * (2) BTC = B-team TagCoin
+      - (ii) Each team will receive a budget of ATC determined by the CRC on a case-by-case basis.
          * (1) Potential budgets will be separated into tiers that each team can be assigned to.
          * (2) The tier a team is placed into will be determined by the strength of the first player on the roster (i.e. DPC or prelim pick).
          * (3) Each tier may have any number of teams assigned to it including zero teams.
-         * (4) The highest tier will be 100 TCs.
-      - (ii) Trades, including those involving TCs, are allowed during the draft.
-      - (iii) The order of picks in the snake draft will be determined by TCs remaining at the end of the draft, as described in Article 3, Section 3, Part 1.
-      - (iv) Remaining TCs are destroyed at the conclusion of the draft and may not be carried into the season in any way.
-      - (v) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
-      - (vi) TCs may not be spent to remove a player from a roster and replace them on the draft board.
+         * (4) The highest tier will be 100 ATC
+      - (iii) Each team will recieve 100 BTC.
+      - (iv) Trades, including those involving TC, are allowed during the draft.
+      - (v) ATC and BTC are distinct and may not be exchanged for each other.
+         * (1) Players selected in the A-team auction draft may not be traded for BTC.
+      - (vi) The order of nominations in the B-team auction draft will be determined by ATC remaining at the end of the A-team auction draft, as described in [Article 3, Section C, Part 1.](#section-c---the-snake-draft)
+      - (vii) Remaining TC are destroyed at the conclusion of each draft and may not be carried forward in any way.
+      - (viii) TC penalties may be applied by the CRC and/or League Manager at their discretion for captains misbehaving, misusing draft tools, or otherwise impeding the flow of the draft.
+      - (ix) TC may not be spent to remove a player from a roster and replace them on the draft board.
    + (b) Nominations:
       - (i) Captains will be responsible for submitting nominations for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-captain from submitting nominations at their discretion, but will work with captains if they have difficulty finding a replacement.
-      - (ii) The nomination order will be randomly assigned and repeated in the same order upon completion of each round.
+      - (ii) The A-team nomination order will be randomly assigned and repeated in the same order upon completion of each round.
       - (iii) Nomination spots may not be traded.
-      - (iv) Nominations will continue until each team has exactly 5 players.
-      - (v) If a team already has 5 players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
-      - (vi) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TCs and that team’s remaining TagCoins.
-      - (vii) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TCs. The player will be the top undrafted player on the draft packet.
+      - (iv) Nominations will continue until each team has exactly 4 players.
+      - (v) If a team already has maximum players and they are at the top of the nomination order, their nomination will instead be skipped and continue to the next eligible team.
+      - (vi) Nominations have a starting bid. The starting bid is chosen by the nominating team and may be anywhere between 0 TC and that team’s remaining TagCoins.
+      - (vii) If a team takes more than 30 seconds to nominate a player, a player may be automatically nominated for them at a starting bid of 0 TC. The player will be the top undrafted player on the draft packet.
 - (2) Seasons with General Managers
-   + (a) TagCoins (TCs):
+   + (a) TagCoins (TC):
       - (i) Each team will receive an equal budget of TagCoins determined by the CRC.
-      - (ii) Trades involving TCs during the draft are allowed.
-      - (iii) The order of picks in the snake draft will be determined by TCs remaining at the end of the draft, as described in Article 3, Section 3, Part 1.
+      - (ii) Trades involving TC during the draft are allowed.
+      - (iii) The order of picks in the snake draft will be determined by TC remaining at the end of the draft, as described in [Article 3, Section C, Part 1.](#section-c---the-snake-draft)
       - (iv) Remaining TCs are destroyed at the conclusion of the draft and may not be carried into the season in any way.
    + (b) Nominations:
       - (i) General Managers will be responsible for submitting nominations for their team unless otherwise communicated with the CRC. The CRC reserves the right to decline any non-GM from submitting nominations at their discretion, but will work with GMs if they have difficulty finding a replacement.
@@ -285,14 +293,14 @@ ___
  
 #### _Section C - The snake draft_
 - (1) The snake draft will follow the same format for both traditional captaincy and General Manager seasons. 
-   + (a) The snake draft will begin 15 minutes after the conclusion of the auction draft unless otherwise announced by the League Manager or CRC.
+   + (a) The snake draft will begin shortly after the conclusion of the B-team auction draft unless otherwise announced by the League Manager or CRC.
    + (b) The snake draft order will be determined by the number of remaining TCs of each team, prorated by their initial balance.
       - (i) Ties will be resolved using a random generator.
       - (ii) Proration example:
-         * (1) Captain A begins with 100 TCs and ends with 6 TCs, or 6 pro-rated TCs (100/100\*6);
-         * (2) Captain B begins with 100 TCs and ends with 0 TCs, or 0 pro-rated TCs;
-         * (3) Captain C begins with 80 TCs and ends with 6 TCs, or 7.5 pro-rated TCs (100/80\*6); and
-         * (4) Captain D begins with 80 TCs and ends with 0 TCs, or 0 pro-rated TCs.
+         * (1) Captain A begins with 100 TCs and ends with 6 TC, or 6 pro-rated TC (100/100\*6);
+         * (2) Captain B begins with 100 TCs and ends with 0 TC, or 0 pro-rated TC;
+         * (3) Captain C begins with 80 TCs and ends with 6 TC, or 7.5 pro-rated TC (100/80\*6); and
+         * (4) Captain D begins with 80 TCs and ends with 0 TC, or 0 pro-rated TC.
          * (5) The draft order would be: C, A, B/D (coinflip).
    + (c) The team with the most prorated TCs will pick 1st in the 1st round.
    + (d) Teams will have 60 seconds to submit a snake pick. Failure to select a player will result in the top player from the big board being added to their roster.
@@ -328,7 +336,7 @@ ___
    + (a) To be considered an Eligible Free Agent, the player can not already be assigned to an MLTP or NLTP team.
    + (b) Players who were dropped from an MLTP team will be subject to a review by the CRC to determine whether they will be eligible to enter into free agency. The CRC may deem players ineligible if they are considered a risk to the league’s competitive integrity. Players are eligible to sign up as a Free Agent unless the player was removed from MLTP as a disciplinary action or are found guilty of trade manipulation/collusion.
    + (c) Players dropped from MLTP for “gross inactivity” will be ineligible to sign up for NLTP free agency unless they work their way through the MLTP system to remove the "gross inactivity" tag. An appeal may be made to the CRC by the player.
-   + (d) Players dropped from MLTP teams will be restricted from playing on A-team for the rest of the season, unless granted a waiver by the CRC.
+   + (d) Players dropped from MLTP teams will be restricted from playing on B-team for the rest of the season, unless granted a waiver by the CRC.
    + (e) Players dropped after the final free agency period will not be eligible for NLTP.
    + (f) Free agents with >100 minutes of competitive experience will not be granted eligibility without a waiver; this excludes mLTP drops.
    + (g) The Free Agency list will be linked on the NLTP Info Hub. Players highlighted in green have been approved for the next free agency period. Players highlighted in red have been declined.
@@ -346,7 +354,7 @@ ___
    + (j) If multiple claims are received from a single team, only the most recent submission will be considered valid. It is the responsibility of the NLTP Captain to fill the form out properly.
    + (k) Eligible captains will be allowed to claim themselves from waivers if they are in a position to do so.
    + (l) Eligible co-captains seeking entry into NLTP must agree to enter into the waiver wire process, and are thus stripped of their title unless claimed by the team in which they are a co-captain. If a co-captain refuses to play for another team, they may face removal from the league on the grounds of collusion with their original team.
-   + (m) Captains who were playing in and are dropped from minors are ineligible for NLTP unless their team is first in the A-team wire at the time of their drop.
+   + (m) Captains who were playing in and are dropped from minors are ineligible for NLTP unless their team is first in the A-team wire at the time of NLTP free agency.
    + (n) Captains who were playing in and are dropped from majors as well as captains not playing NALTP for the current season are ineligible for NLTP free agency. 
 - (5) Waiver Points:
    + (a) Waiver points are non-existent and will not be allowed to be traded.
@@ -371,6 +379,8 @@ Example: If a player has played 40 total A-team minutes through week 2, they may
       - (i) Gross inactivity is to be determined on a case by case basis by the NLTP CRC.
       - (ii) Players may only be GI dropped by the team that drafted them.
       - (iii) Players drafted in snake rounds 4 or greater will not be eligible to be dropped for GI.
+      - (iv) The CRC will announce a deadline for GI drops which will be no more than 1 week before the FA period.
+      - (v) All GI drops and any waiver compensation will be announced together shortly after the GI drop deadline.
    + (b) Following a drop request, the player in question will be messaged by the NLTP CRC in order to verify the situation and gather any additional information.
    + (c) After conferring with both the captain and the player to be dropped, the NLTP CRC will determine whether the player is to be dropped, held, or forcibly traded.
    + (d) A player dropped for gross inactivity will be ineligible to be added by any team for the remainder of the season, including the team that dropped them.
@@ -419,13 +429,14 @@ ___
       - (i) If the regular A-team starter plays on B-team that week, the player who substituted on A-team is not eligible to play B-team.
       - (ii) Dual eligibility will not be allowed during week 1 for players drafted during the auction or in the first snake round.
    + (d) At the conclusion of week 4 games, the four players who have played the most minutes on their A-team will become ineligible to play B-team unless granted a waiver by the CRC. If more than four players are determined to be A-team by virtue of minutes (ie. a tie), the captain must select players with the fewest minutes from that pool to retain B-team eligibility until there are only four players ineligible for B-team.
+      - (i) Players who are mathematically incapable of finishing the season outside the top 4 in A-team minutes for their team will be ineligible to play B-team. 
    + (e) Captains can request a waiver to replace a player in the top four minutes with another player if they intend for that player to be the A-team starter moving forward.
       - (i) Examples may include, but are not limited to, a free agent pick up, a player who was unavailable in the beginning weeks of the season, or a player who has won the starting spot late in the season.
 - (2) Playoffs:
    + (a) Anyone on a team's roster is eligible to play on A-team.
       - (i) This rule does not apply to NPCb captains. See [Article VII, Section D](#section-d---minute-minimums-and-maximums) for more information on NPCb minutes.
    + (b) Players must have a minimum of 40 minutes during the regular season to be eligible for B-team playoffs.
-   + (c) Anyone on a team’s roster designated as A-team during the regular season is ineligible for B-team playoff games.
+   + (c) Anyone on a team’s roster designated as A-team at the conclusion of the regular season is ineligible to play in B-team playoff games.
    + (d) Anyone on a team’s roster designated as B-team may play up to and including 50% of the available A-team minutes (not including overtime) and retain their B-team eligibility.
       - (i) Waivers for 100% of minutes may be granted by the CRC on a case-by-case basis for unforeseen circumstances such as family emergencies, power outages, and other events that will leave an A-team player unavailable.
        
@@ -444,7 +455,10 @@ ___
 - (3) The map rotation for A-team and B-team will consist of the same maps.
 
 #### _Section B - Playoffs_
-- (1) Captains with a team in the playoffs will vote on the regular season map rotation to select 7 of the original 14 maps. 
+- (1) Captains of the top 6 seeds in the playoffs will submit a ranked list of preferences from the regular season map rotation to select 8 of the original 14 maps. 
+   + (a) Maps will be chosen from the top of the list from team seeds in the following order: 2-1-6-5-4-3-2-1. This means that a map from the second seed is chosen, then the first seed, then the sixth, fifth, and so on. 
+      - (i) If the map at the top of a team's list has already been submitted by a team before them in line, the next map on their list that has not been submitted will instead be added to the playoff rotation.
+         * (1) Teams will submit 9-[seed] maps. Ex. the 5th seed will submit 4 (9-5) maps in order of preference.
 - (2) There will be separate votes for A-team and B-team playoffs and so the map rotations may differ.
 ___
 ### Article VII - Matches
@@ -453,10 +467,12 @@ ___
 - (2) At the beginning of the season and after the draft, each captain will be asked to submit their team’s default game time. These times can be different for A-team and B-team. The time will fall within boundaries to be determined by the CRC.
 - (3) At the beginning of the season and after the draft, each captain will be asked to submit their team’s home server. 
    + (a) Teams will be allowed to change their home servers at the beginning of the season if there are extenuating circumstances. Captains will need to discuss this with the CRC.
+- (4) Teams that choose Central as their home server are permitted to opt into western style timing.
    + (b) The CRC reserves the right to grant additional server changes throughout the season to teams with special circumstances.
 - (4) In matches played between two eastern teams or two western teams, the default gametime will be the average of the two teams’ default gametime. 
    + (a) Example: Team A’s default gametime is 8:30 PM ET. Team B’s default gametime is 10 PM ET. By default, this match will begin at 9:15 PM ET.
 - (5) The default time for all matches between western (LA, SF, SEA) teams and non-western teams will be 10 PM ET.
+   + (a) Central teams who have opted into western style timing will be considered western teams for this point.
 - (6) At any point, both captains may agree to move a match to a date and/or time other than the one indicated by the schedule so long as it is within 72 hours of the default game time. The CRC must be notified if this happens.
    + (a) Reschedules may be declined by the CRC at their discretion, especially in instances which place a match outside of the designated 72 hour period or that may delay free agency, playoffs, or anything else deemed important by the CRC.
 
@@ -467,7 +483,7 @@ ___
    + (b) Maps and starting color:
       - (i) Maps will follow the schedule posted by the CRC.
       - (ii) The first map of the week will be played first and the second will be played second.
-      - (iii) A-team matches will repeat the first map of the week for the third game.
+      - (iii) B-team matches will repeat the first map of the week for the third game.
       - (iv) Team colors will alternate for each half (ABAB for A-team/ABABAB for B-team).
          - (1) If captains cannot agree on their A and B colors, either one may share their screen with the other as they use a randomizer or the captains may appeal to the CRC who will exasperatedly flip a coin on their behalf. 
    + (c) Game settings:
@@ -534,19 +550,11 @@ ___
       - (i) There will be one best-of-seven-halves series per week for each playoff team in NLTP.
       - (ii) Maps and starting color:
          * (1) Captains will draft the maps and starting color according to the following:
-            + (aa) The team with the higher seed will pick what team they would like to be for the Pick/Pick (Team 1 or Team 2).
-            + (bb) The Pick/Pick must be completed between the two captains no less than 48 hours before the start time of a series and forwarded to the CRC.
+            + (aa) The team with the higher seed will pick what team they would like to be for the Pick/Ban (Team 1 or Team 2).
+            + (bb) The Pick/Ban must be completed between the two captains no less than 48 hours before the start time of a series and forwarded to the CRC.
             + (cc) Teams will take turns picking from the available maps and assigning them to available games. The first pick may choose any map from the pool and assign it to any game from 1-7. The next team may choose any map except the first one and assign it to any remaining game, etc.
-
-            + (dd) Table:
-  
-            | Round | Team 1 | Team 2 |
-            | :--: | :--: | :--: |
-            | 1 | Pick Map/Game | Pick Map/Game |
-            | 2 | Pick Map/Game | Pick Map/Game |
-            | 3 | Pick Map/Game | Pick Map/Game |
-            | 4 | Pick Order of colors (pick Red or Blue for games 1/3/5/7) | - |
--
+               - (z) At any point during the Pick/Ban either team may choose to select a color order (assign their team to Red or Blue for games 1/3/5/7) instead of selecting a map. After this is done once by either team neither team may use this option again.
+               - (x) At any point during the Pick/Ban either team may choose to ban one map instead of selecting a map. After this is done once by either team neither team may use this option again.
    + (b) Game settings:
       - (i) Halves 1-7
          * (1) Time limit set to 10 minutes;
@@ -592,7 +600,9 @@ ___
       - (i) 6 or more players: Players may not receive more than 40 minutes of game time excluding overtime.
       - (ii) 5 players: Players may not receive more than 50 minutes of game time excluding overtime.
       - (iii) 4 players: Players must all receive 60 minutes of game time excluding overtime.
-   + (c) There is no minute maximum for B-team games during playoffs.
+   + (c) If it is impossible to stay within the minute maximums for any reason the CRC reserves the right to determine which players may be given minutes in excess of the restrictions.
+      - (i) Due to the time sensitive nature of such decisions, if only one CRC member is online at the time of the conflict they will be given the deciding say on this matter.
+   + (d) There is no minute maximum for B-team games during playoffs.
 
 #### _Section E - Timeouts_
 - (1) Early game:
@@ -612,7 +622,7 @@ ___
    + (a) If a team calls for a time out when they are not eligible to, the CRC may enforce forfeits, standings point deductions, or waiver wire penalties at their discretion. 
 
 #### _Section F - Substitutions_
-- (1) Any eligible players may be substituted between halves so long as they will not otherwise conflict with the rulebook at the conclusion of the upcoming half.
+- (1) Any eligible players may be substituted between halves so long as they will not otherwise conflict with the rulebook at the conclusion of the upcoming or in-progress half.
 - (2) Live substitutions are permitted during league games.
    + (a) Teams can make as many substitutions as they like.
    + (b) If players are having trouble with lag, they will be permitted up to two refreshes before their captain may demand they substitute out.
@@ -638,13 +648,14 @@ Failure to notify the CRC of such an event may be met by punishments including b
 - (2) Non-Players:
    + (a) For the duration of the game all microphones must be muted. Failure to mute may result in waiver wire penalties or point deductions at the discretion of the CRC.
    + (b) Players from teams other than the team using a voice channel may face disciplinary action or have their team penalized for unmuting during a game.
-   + (c) Captains and official Co-Captains are allowed to spectate and make in-game comments during the regular season B-team matches to help develop B-team level of play. This does not continue into the playoffs.
+   + (c) One Captain or official Co-Captain per team  is allowed to spectate and make in-game comments during the regular season B-team matches to help develop B-team level of play. This does not continue into the playoffs.
 ___
 ### Article VIII - Playoffs
 #### _Section A - Team eligibility_
-- (1) The top 8 teams will advance to the playoffs.
-- (2) A-team and B-team playoffs are independent.
-- (3) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
+- (1) The top 8 A-teams will advance to the playoffs.
+- (2) All 10 B-teams will advance to the playoffs.
+- (3) The A-team and B-team playoffs are independent.
+- (4) Teams may not decline or otherwise remove themselves from playoffs without being eliminated.
 
 #### _Section B - Seeding_
 - (2) Seeding will be determined by the number of points earned during a season after penalties as outlined in article 7 section 3.
@@ -742,7 +753,7 @@ ___
 ___
 ### Article XII - Votes, Vetoes, VONC’s, & Rule Changes
 #### _Section A - Votes_
-- (1) Voting on official league business will be done via the captains’ chat (a private discord channel) for most issues, and via private message to the NLTP commissioners on sensitive issues.
+- (1) Voting on official league business will be done via the captains’ chat (a private discord channel) for most issues, and via private message to the NLTP CRC on sensitive issues.
    - (a) Votes may also be collected through forms or via the TToC_Bot
 - (2) Only NLTP captains, or official co-captains in the event the captain is unavailable and with prior approval from the CRC, are allowed to formally vote on issues.
 - (3) The people who will be able to access the captains’ group chat will be the following:
