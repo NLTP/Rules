@@ -378,7 +378,7 @@ Example: If a player has played 40 total A-team minutes through week 2, they may
    + (a) After week 2 games, captains may appeal to the CRC to have a player removed from their roster for Gross Inactivity (GI).
       - (i) Gross inactivity is to be determined on a case by case basis by the NLTP CRC.
       - (ii) Players may only be GI dropped by the team that drafted them.
-      - (iii) Players drafted in snake rounds 4 or greater will not be eligible to be dropped for GI.
+      - (iii) Players drafted in snake the snake draft will not be eligible to be GI dropped.
       - (iv) The CRC will announce a deadline for GI drops which will be no more than 1 week before the FA period.
       - (v) All GI drops and any waiver compensation will be announced together shortly after the GI drop deadline.
    + (b) Following a drop request, the player in question will be messaged by the NLTP CRC in order to verify the situation and gather any additional information.
@@ -427,7 +427,9 @@ ___
    + (b) The top four players in total A-team minutes on each team’s roster are ineligible to play B-team if they have any A-team minutes that week.
    + (c) If a team's regular A-team starter (as determined by top four A-team minutes) is unavailable for a week (0 playing minutes) and is replaced by a B-team player, that B-team player will be eligible to play B-team as well that week.
       - (i) If the regular A-team starter plays on B-team that week, the player who substituted on A-team is not eligible to play B-team.
-      - (ii) Dual eligibility will not be allowed during week 1 for players drafted during the auction or in the first snake round.
+      - (ii) Players drafted in the A-team auction will not be allowed dual eligibility during week 1.
+      - (iii) The two most expensive players drafted in the B-team auction for each team will not be allowed dual eligibility during week 1.
+           * (1) If there is a tie for second most expensive player the one who was drafted later in the auction will be allowed dual eligibility.
    + (d) At the conclusion of week 4 games, the four players who have played the most minutes on their A-team will become ineligible to play B-team unless granted a waiver by the CRC. If more than four players are determined to be A-team by virtue of minutes (ie. a tie), the captain must select players with the fewest minutes from that pool to retain B-team eligibility until there are only four players ineligible for B-team.
       - (i) Players who are mathematically incapable of finishing the season outside the top 4 in A-team minutes for their team will be ineligible to play B-team. 
    + (e) Captains can request a waiver to replace a player in the top four minutes with another player if they intend for that player to be the A-team starter moving forward.
