@@ -663,7 +663,7 @@ ___
 - (2) Seeding will be determined by the number of points earned during a season after penalties as outlined in article 7 section 3.
 - (2) Tiebreakers between two teams with an equal number of points will be determined by the following:
    + (a) Head-to-head record;
-   + (b) Record against common opponents;
+   + (b) Points acquired vs. common opponents;
    + (c) Cap differential against common opponents;
    + (d) Total cap differential;
    + (e) Total caps scored;
