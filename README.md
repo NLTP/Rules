@@ -60,11 +60,11 @@
 ___
 ### Article I - League Overview
 
-##### _Section A - Leagues_
+#### _Section A - Leagues_
 - (1) NLTP will be broken into two leagues: NLTP (A-team), and nLTP (B-team).
 - (2) Each A-team will have an affiliated-B-team with the same official name, captain and co-captain.
 
-##### _Section B - Schedule_
+#### _Section B - Schedule_
 - (1) By default, A-team games will be played on Tuesday nights while B-team games will be played Wednesday nights.
 - (2) There will be 7 weeks in the regular season and 3 rounds of playoffs for a total of 10 weeks.
 
@@ -723,7 +723,7 @@ ___
 - (3) Players are encouraged to talk up their own skills, and even be arrogant about it, but are not allowed to put down other players or teams unless it is clear it is a joke.
 - (4) Players are encouraged to talk smack before the match, but afterwards be cool about everything - especially the winning team.
 - (5) Teams are subject to punishment if their players or captains partake in any of the following: Unnecessary spam to /r/NLTP or spam to Discord channels.
-- (6) There is a catch-all "Don't Be a Dick" rule, of which any number of things it can encompass. Violations of the "DBAD" rule will be dealt with on a case-by-case basis as determined by the CRC.
+- (6) There is a catch-all "Don't Be a Dick" rule, which may encompass any number of things. Violations of the "DBAD" rule will be dealt with on a case-by-case basis as determined by the CRC.
 - (7) Excessive or targetted group chat during league games will result in a warning and may result in a ban or team forfeiture if the problem persists or is deemed unruly by the CRC.
 - (8) At any point during regular season or playoff games, either captain may request to trim a group and can expect full compliance from both teams. A trimmed group requires all non-essential members to leave. Players who may stay include:
    + (a) The eight players scheduled to play in the upcoming half;
